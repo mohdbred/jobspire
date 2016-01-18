@@ -1,0 +1,4 @@
+// PHP code to create a Random Number
+
+function random_number($name){
+print_r($name.' '.rand(6,15));}
